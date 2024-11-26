@@ -1,10 +1,10 @@
 <script>
-import MainContent from './components/MainContent.vue';
+import AlbumsList from './components/AlbumsList.vue';
 
 export default {
   name: "Albums-Project",
   components: {
-    MainContent, 
+    AlbumsList, 
   
 },
 };
@@ -16,7 +16,7 @@ export default {
 
 <template>
  
-<MainContent />
+<AlbumsList />
 
 </template>
 
