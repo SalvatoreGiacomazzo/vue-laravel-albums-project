@@ -42,9 +42,7 @@ getAlbumsList(){
 </script>
 
 <template>
-  <div>
-    <h1>Hello MainContent!</h1>
-  </div>
+
 </template>
 
 <style lang="scss">
